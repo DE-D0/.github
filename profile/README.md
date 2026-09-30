@@ -1,6 +1,6 @@
-# DE-D0
+# DE-D0 — A Creative Ecosystem
 
-**An AI-assisted content production system, from idea to publication.**
+**From ideas to stories, with AI and human direction.**
 
 DE-D0 brings research, writing, video production, quality review, and publishing
 into one coordinated workflow. Its focus is Polish-language YouTube content,
